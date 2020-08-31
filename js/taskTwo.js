@@ -25,4 +25,4 @@ const poly = new User({
 });
 
 mango.getInfo();
-poly.getInfo(); 
+poly.getInfo();
